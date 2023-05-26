@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/iamAkuma/nodeJS/issues"
   },
-  "homepage": "https://github.com/iamAkuma/nodeJS#readme"
+  "homepage": "https://github.com/iamAkuma/nodeJS#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
